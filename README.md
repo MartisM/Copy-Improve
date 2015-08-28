@@ -1,3 +1,6 @@
+Project where more organized approach was implied. Project was built using HTML5 CSS3 and Javascript programming languages.
+After rewriting huge chunks of the code, connecting same parts of the code together and cleaning up the code to be more structurized I managed to lighten the code by 10-15% in total. Reasons of achieving such results were led by removing unnecessary classes and IDs from the code that were left there for no reason. Different approach to the elements also made them to be more connected between each other what also eases code modification if needed. For the future purposes I would like to rewrite the entire project into HTML and CSS preprocessors Jade and Sass which would make the code even more lighter and easier to manage
+
 # [Start Bootstrap](http://startbootstrap.com/) - [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/)
 
 [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
